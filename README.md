@@ -15,7 +15,7 @@ Allow students to check out books from the library.
 Enable students to check in books they have borrowed.
 
 
-##Installation
+## Installation
 
 **Clone the Repository:**
 git clone (https://github.com/Akankshadevloper/LibraryManagmentSystem.git)

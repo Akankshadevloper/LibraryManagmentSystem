@@ -16,7 +16,8 @@ Enable students to check in books they have borrowed.
 
 
 ##Installation
-Clone the Repository:
+
+**Clone the Repository:**
 git clone (https://github.com/Akankshadevloper/LibraryManagmentSystem.git)
 
 Run the Program:

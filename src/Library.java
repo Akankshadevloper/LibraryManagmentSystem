@@ -18,6 +18,14 @@ public class Library {
         
         students obStudent = new students();
 
+        int choice;
+        int searchChoice;
+      
+        do {
+
+            ob.dispMenu();
+            choice = input.nextInt();
+
 
 
   

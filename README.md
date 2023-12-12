@@ -1,18 +1,16 @@
 # Library Management System
 
-**Introduction
-This is a simple library management system implemented in Java. It allows users to manage books, students, and perform various operations such as adding books, upgrading book quantities, searching for books, and managing student registrations.
+## Introduction
+This project is a basic implementation of a Library Management System in Java. It consists of three main classes: 'book' , 'books' , and 'students'. The 'book' class represents a book, the 'books' class manages books and provides functionalities like adding, searching, and updating book quantities, and the 'students' class manages student information and book transactions.
 
 ## Features
-1. **Add, Upgrade, and Search Books:**
-Use the system to add new books to the library catalog.
-Upgrade the quantity of existing books in the inventory.
-Search for books by serial number or author name.
-2. **Student Registration:**
-Register students with their names and registration numbers.
-3. **Book Checkout and Check-In:**
-Allow students to check out books from the library.
-Enable students to check in books they have borrowed.
+1. Add new books to the library
+2. Upgrade the quantity of a book
+3. Search for books by serial number or author's name
+4. Display all books in the library
+5. Register students
+6. Check out books to students
+7. Check in books from students
 
 
 ## Installation
@@ -20,6 +18,8 @@ Enable students to check in books they have borrowed.
 **Clone the Repository:**
 git clone (https://github.com/Akankshadevloper/LibraryManagmentSystem.git)
 
-Run the Program:
-Open the project in your preferred Java IDE and run the Library.java file.
+## Usage
+1. Run the 'Library class' to start the Library Management System.
+
+2. Follow the on-screen menu to perform various operations like adding books, upgrading quantities, searching for books, registering students, and managing book transactions.
 

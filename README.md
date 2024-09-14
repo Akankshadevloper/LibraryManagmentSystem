@@ -1,7 +1,7 @@
 # Library Management System
 
 ## Introduction
-This project is a basic implementation of a Library Management System in Java. It consists of three main classes: 'book' , 'books' , and 'students'. The 'book' class represents a book, the 'books' class manages books and provides functionalities like adding, searching, and updating book quantities, and the 'students' class manages student information and book transactions.
+This project is a basic implementation of a Library Management System in Java. It consists of three main classes: 'book' , 'books' , and 'students' and "admin". The 'book' class represents a book, the 'books' class manages books and provides functionalities like adding, searching, and updating book quantities, and the 'students' class manages student information and book transactions.
 
 ## Features
 1. Add new books to the library

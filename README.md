@@ -19,7 +19,7 @@ This project is a basic implementation of a Library Management System in Java. I
 git clone (https://github.com/Akankshadevloper/LibraryManagmentSystem.git)
 
 ## Usage
-1. Run the 'Library class' to start the Library Management System.
+1. Run the 'Library class' to start the Library Management System project.
 
 2. Follow the on-screen menu to perform various operations like adding books, upgrading quantities, searching for books, registering students, and managing book transactions.
 
